@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinutiaDist", "MinutiaDist\MinutiaDist.csproj", "{02305CC5-006B-4EE0-8D7A-A3B641AF2B07}"
+	ProjectSection(ProjectDependencies) = postProject
+		{81C6DEE2-E3AF-4019-898A-F5AD326F5E04} = {81C6DEE2-E3AF-4019-898A-F5AD326F5E04}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinutiaComparator", "MinutiaComparator\MinutiaComparator.csproj", "{8550CDA4-DD7C-41FD-9A2B-DCCA9E64D15F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{81C6DEE2-E3AF-4019-898A-F5AD326F5E04} = {81C6DEE2-E3AF-4019-898A-F5AD326F5E04}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinutiaCalcLib", "MinutiaCalcLib\MinutiaCalcLib.csproj", "{81C6DEE2-E3AF-4019-898A-F5AD326F5E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02305CC5-006B-4EE0-8D7A-A3B641AF2B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02305CC5-006B-4EE0-8D7A-A3B641AF2B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02305CC5-006B-4EE0-8D7A-A3B641AF2B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02305CC5-006B-4EE0-8D7A-A3B641AF2B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8550CDA4-DD7C-41FD-9A2B-DCCA9E64D15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8550CDA4-DD7C-41FD-9A2B-DCCA9E64D15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8550CDA4-DD7C-41FD-9A2B-DCCA9E64D15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8550CDA4-DD7C-41FD-9A2B-DCCA9E64D15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C6DEE2-E3AF-4019-898A-F5AD326F5E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C6DEE2-E3AF-4019-898A-F5AD326F5E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C6DEE2-E3AF-4019-898A-F5AD326F5E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C6DEE2-E3AF-4019-898A-F5AD326F5E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C47DBAE-F079-4BFB-A185-EFC2C569F925}
+	EndGlobalSection
+EndGlobal

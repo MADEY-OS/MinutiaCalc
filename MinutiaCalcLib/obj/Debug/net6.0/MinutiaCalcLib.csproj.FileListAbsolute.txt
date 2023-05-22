@@ -1,0 +1,12 @@
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\bin\Debug\net6.0\MinutiaCalcLib.deps.json
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\bin\Debug\net6.0\MinutiaCalcLib.dll
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\bin\Debug\net6.0\MinutiaCalcLib.pdb
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.csproj.AssemblyReference.cache
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.AssemblyInfoInputs.cache
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.AssemblyInfo.cs
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.csproj.CoreCompileInputs.cache
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.dll
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\refint\MinutiaCalcLib.dll
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\MinutiaCalcLib.pdb
+C:\Users\madej\Desktop\INŻ\MinutiaCalc\MinutiaCalcLib\obj\Debug\net6.0\ref\MinutiaCalcLib.dll
